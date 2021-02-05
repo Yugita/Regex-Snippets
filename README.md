@@ -2,11 +2,14 @@
 Here are the materials and codes for the Regular Expression episode.
 
 # 入门篇
-- 实操练习的网站：[regex101](https://regex101.com/)
-- 实操使用的文本：[sample.txt](https://github.com/Yugita/Regex-Snippets/blob/main/sample.txt)
+- 使用的网站：[regex101](https://regex101.com/)
+- 使用的文本：[sample.txt](https://github.com/Yugita/Regex-Snippets/blob/main/sample.txt)
 - 干货总结：[Regex-1-Notes.pdf](https://github.com/Yugita/Regex-Snippets/blob/main/Regex-1-Notes.pdf)
 
-## 常用元字符
+# 练习题
+《正则表达式必知必会》附录B，电子版搜索微信公众号“鸽婆汤”，回复关键词“regex”可得！
+
+# 常用元字符
 ||元字符|含义|匹配对象|
 |----|----|----|----|
 ||``.``|单字符|单个任意字符|

@@ -15,7 +15,7 @@ quiet, query, qita
 <HR></HR>
 <HR SIZE = 14></HR>
 
-2021年2月5日，鸽婆打印机。
+2021年2月5日，鸽婆打字机。
 2021.2.5，你好！
 Today is 2021-2-5.
 2021/2/5是个美好的日子！
@@ -25,6 +25,7 @@ file-txt.pdf
 
 she
 ttttthe
+thethethe
 thethe
 the the
 the     the
